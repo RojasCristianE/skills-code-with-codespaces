@@ -1,4 +1,5 @@
 #!/bin/bash
 
-sudo apt-get update
-sudo apt-get install sl
+sudo apt update
+sudo apt upgrade -y
+sudo apt install sl
